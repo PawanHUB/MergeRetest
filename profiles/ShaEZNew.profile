@@ -4,7 +4,7 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>EZ2__c.EZ2__c</field>
-        <readable>true</readable>
+        <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
@@ -12,7 +12,6 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true</editable>
         <field>EZ2__c.EZ4__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -27,7 +26,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true</editable>
+        
         <field>EZ__c.EZ2__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -98,14 +97,7 @@
         <enabled>true</enabled>
         <name>AssignTopics</name>
     </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ChatterEditOwnPost</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ChatterFileLink</name>
-    </userPermissions>
+    
     <userPermissions>
         <enabled>true</enabled>
         <name>ChatterInternalUser</name>

@@ -7,7 +7,10 @@ Account acc21= new Account();
 //3rd commit
 acc21.Name = name;
 return acc21;
+<<<<<<< int
 //second commit
+=======
 //2nd commit
+>>>>>>> 8ea1ab9 Update CreatingAccount13.cls
 }
 }

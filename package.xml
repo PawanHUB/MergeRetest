@@ -3,6 +3,7 @@
     <version>37.0</version>
     <types>
         <members>A123</members>
+        <members>A21</members>
         <name>ApexClass</name>
     </types>
 </Package>

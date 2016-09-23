@@ -1,6 +1,6 @@
 public Class A21
 {
-public Account createAccount(String name)  //method to create account
+public Account createAccount(String name)  //method to create Test
 {
 //Z2
 //Commit2 By Pavan

@@ -10,8 +10,10 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>ACC1Obj1__c</members>
         <members>AccNewOBj89__c</members>
         <members>AccNewObj1__c</members>
+        <members>Add__c</members>
         <name>CustomObject</name>
     </types>
 </Package>

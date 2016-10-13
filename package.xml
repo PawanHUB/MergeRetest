@@ -17,6 +17,7 @@
         <members>AddNew__c</members>
         <members>Add__c</members>
         <members>BitBucket__c</members>
+        <members>CAccObj1__c</members>
         <name>CustomObject</name>
     </types>
 </Package>
